@@ -10,6 +10,7 @@ Edward Schmuhl (Weaviate) also wrote a great blog about the Health search demo [
 
 [![Weaviate](https://img.shields.io/static/v1?label=%E2%9D%A4%20made%20with&message=Weaviate&color=green&style=flat-square)](https://weaviate.io/) [![Streamlit](https://img.shields.io/static/v1?label=%E2%9D%A4%20made%20with&message=Streamlit&color=red&style=flat-square)](https://streamlit.io/) [![Docker support](https://img.shields.io/badge/Docker_support-%E2%9C%93-4c1?style=flat-square&logo=docker&logoColor=white)](https://docs.docker.com/get-started/)
 
+![](https://github.com/corticalstack/healthsearch-demo-streamlit/blob/main/streamlit%20health-search%20demo.JPG?raw=true)
 
 ## 🎯 Overview
 
